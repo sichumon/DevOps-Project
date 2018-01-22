@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Tou Tong Vang/title>
+    <title> Tou Tong Vang </title>
     <link rel="stylesheet" href="styles/main.css"/>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
